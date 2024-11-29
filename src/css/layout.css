@@ -1,0 +1,35 @@
+label {
+    display: block;
+    margin: 0;
+    padding: 16px 0 0 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+input {
+    margin: 0;
+    padding: 0;
+}
+
+.input {
+    width: 480px;
+    border: 1px solid #c0c0c0;
+    margin: 2px 0;
+    padding: 5px 2px;
+    height: 16px;
+    background: #fff;
+}
+
+#message {
+    height: 128px;
+}
+
+button {
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+    color: #2d2828;
+}
